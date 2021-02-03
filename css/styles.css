@@ -1,0 +1,79 @@
+a {
+  color: black;
+}
+
+a:hover {
+  color: #FFFFFF;
+}
+
+body {
+  /*background: rgb(238, 174, 202);
+  background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);*/
+  background: rgb(238,235,174);
+background: radial-gradient(circle, rgba(238,235,174,1) 0%, rgba(148,187,233,1) 100%);
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  color: black;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 100px;
+}
+
+h2 {
+  font-family: 'Crimson Text', serif;
+  font-size: 80px;
+  margin-bottom: 5px;
+
+}
+
+h3 {
+  font-family: 'Crimson Text', serif;
+  font-size: 60px;
+  margin-bottom: 15px;
+
+}
+
+p {
+  margin-top: 0;
+  line-height: 2;
+}
+
+.top-container {
+  font-family: 'Sacramento', cursive;
+}
+
+.copyright {
+  font-size: 18px
+}
+
+.picture {
+  padding-top: 20px;
+  height: 300px;
+  width: 300px
+}
+
+.cores {
+  height: 280px;
+  width: 280px;
+  padding-top: 60px;
+}
+
+.observação {
+  height: 280px;
+  width: 280px;
+}
+
+.realismo {
+  height: 280px;
+  width: 280px;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 50px;
+}
